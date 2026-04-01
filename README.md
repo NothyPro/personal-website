@@ -30,11 +30,13 @@ Centralised theming for colours, shadows, and spacing, making the site easy to m
   /* ... */
 }
 
-Responsive Layout
-Flexbox – Used in the navigation bar and contact links.
-CSS Grid – Powers the skills and projects sections with repeat(auto-fit, minmax(...)) for fluid columns.
-Media Queries – Adjusts layout, font sizes, and navigation for mobile devices.
-Smooth Transitions
+### Responsive Layout
+
+**Flexbox** – Used in the navigation bar and contact links.
+**CSS Grid** – Powers the skills and projects sections with repeat(auto-fit, minmax(...)) for fluid columns.
+**Media Queries** – Adjusts layout, font sizes, and navigation for mobile devices.
+
+### Smooth Transitions
 
 All interactive elements such as buttons, skill cards, and navigation links use transitions to provide subtle visual feedback on hover, improving usability.
 
@@ -45,7 +47,8 @@ All interactive elements such as buttons, skill cards, and navigation links use 
 .btn:hover {
   background-color: var(--accent-dark);
 }
-Keyframe Animation – Hero Section Fade and Slide-Up
+
+### Keyframe Animation – Hero Section Fade and Slide-Up
 
 A self-directed CSS animation that runs on page load. The hero content fades in and moves upward, drawing attention to the main message without being distracting.
 
