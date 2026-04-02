@@ -117,4 +117,4 @@ Font Awesome – Icons.
 
 © 2026 Nothando Tapuwanashe Ruwona. All rights reserved.
 
-Questions? Feel free to reach out via [LinkedIn]([https://nothandoruwona.ca](https://www.linkedin.com/in/nothando-tapuwanashe-ruwona-82b7b726a/)) or [GitHub](https://github.com/NothyPro)
+Questions? Feel free to reach out via [LinkedIn](https://nothandoruwona.ca](https://www.linkedin.com/in/nothando-tapuwanashe-ruwona-82b7b726a/) or [GitHub](https://github.com/NothyPro)
