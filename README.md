@@ -77,6 +77,8 @@ This animation was built by referencing the MDN documentation on @keyframes and 
 
 Cards, images, and the navigation bar use subtle box shadows to create depth and separate content sections, enhancing readability.
 
+---
+
 ## Accessibility Features
 - **Semantic HTML** – Headings and landmarks such as <header>, <main>, and <footer> provide structure for screen readers.
 - **Alt Text** – All images include descriptive alt attributes.
@@ -85,6 +87,8 @@ Cards, images, and the navigation bar use subtle box shadows to create depth and
 - **Keyboard Navigation** – All links and buttons are reachable via keyboard; the mobile menu can be toggled with Enter or Space.
 - **Smooth Scrolling** – JavaScript-enabled smooth scrolling respects prefers-reduced-motion by falling back to an instant jump if motion is disabled.
 
+--- 
+
 ## Aesthetic Choices
 - **Colour Palette** – Prussian blue (#14213d) conveys professionalism; orange (#fca311) adds energy and is used sparingly for accents.
 - **Typography** – Clean sans-serif fonts such as Segoe UI and system fallbacks ensure readability across devices.
@@ -92,8 +96,11 @@ Cards, images, and the navigation bar use subtle box shadows to create depth and
 - **Subtle Motion** – Hover lifts on cards and gentle fade-ins on load provide delight without overwhelming.
 - **Responsive Images** – The hero background and portrait use the modern .avif format for efficient loading.
 
+--- 
+
 ## Project Structure
 
+```
 /
 ├── index.html          # Main HTML document
 ├── css/
@@ -103,18 +110,26 @@ Cards, images, and the navigation bar use subtle box shadows to create depth and
 │   └── script.js       # Mobile menu toggle and smooth scrolling
 ├── img/                # Images (hero background, portrait)
 └── resume.pdf          # Downloadable resume
+```
+---
 
 ### Running Locally
 Clone the repository.
 Open index.html in any modern browser.
 No build steps or dependencies are required.
 
+---
+
 ### Credits & References
 MDN Web Docs – Used to understand HTML, CSS, @keyframes, and CSS animations.
 Font Awesome – Icons.
 
+---
+
 ### License
 
 © 2026 Nothando Tapuwanashe Ruwona. All rights reserved.
+
+---
 
 Questions? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nothando-tapuwanashe-ruwona-82b7b726a) or [GitHub](https://github.com/NothyPro)
